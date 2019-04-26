@@ -1,0 +1,1 @@
+New-AzAks -ResourceGroupName fabmedical-asharudin -Name fabmedical-cluster -KubernetesVersion 1.12.7
